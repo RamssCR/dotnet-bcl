@@ -1,0 +1,14 @@
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\bin\Debug\net8.0\ModernNet.exe
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\bin\Debug\net8.0\ModernNet.deps.json
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\bin\Debug\net8.0\ModernNet.runtimeconfig.json
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\bin\Debug\net8.0\ModernNet.dll
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\bin\Debug\net8.0\ModernNet.pdb
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.AssemblyInfoInputs.cache
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.AssemblyInfo.cs
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.csproj.CoreCompileInputs.cache
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.dll
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\refint\ModernNet.dll
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.pdb
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.genruntimeconfig.cache
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ref\ModernNet.dll

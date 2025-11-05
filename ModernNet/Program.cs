@@ -1,0 +1,1 @@
+﻿Console.WriteLine($".NET Core Version: {Environment.Version}");
