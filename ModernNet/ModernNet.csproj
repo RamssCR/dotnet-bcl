@@ -11,7 +11,6 @@
       <Folder Include="Libraries\Diagnostics\" />
       <Folder Include="Libraries\LINQ\" />
       <Folder Include="Libraries\Net\" />
-      <Folder Include="Libraries\Text\" />
       <Folder Include="Libraries\Threading\" />
     </ItemGroup>
 

@@ -1,0 +1,1 @@
+﻿This is a random text content that will be storaged into a file, which will be read afterwards, converted into bytes and then into the original value in a string type, do you wanna watch how to the code works under the hood?

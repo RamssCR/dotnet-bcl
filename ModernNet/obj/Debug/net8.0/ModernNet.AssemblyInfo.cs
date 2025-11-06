@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModernNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db30b3d48fe52fc901c360568cec87fd9dd479e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModernNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModernNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

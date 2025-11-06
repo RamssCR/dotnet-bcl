@@ -12,3 +12,4 @@ C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\refint\ModernN
 C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.pdb
 C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.genruntimeconfig.cache
 C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ref\ModernNet.dll
+C:\Users\ramse\RiderProjects\ModernNet\ModernNet\obj\Debug\net8.0\ModernNet.sourcelink.json
